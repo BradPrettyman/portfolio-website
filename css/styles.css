@@ -1,5 +1,7 @@
 .aboutme {
-
+  font-size: 25px;
+  margin: 20px;
+  margin-top: 50px;
 }
 
 .shoes {
@@ -62,7 +64,7 @@ h3, h4 {
 }
 
 .projects {
-  margin-top: 280px;
+  margin-top: 180px;
 }
 
 .pats {
@@ -72,4 +74,20 @@ h3, h4 {
 
 a {
   font-weight: bold;
+}
+
+.hobbies {
+  font-size: 25px;
+  margin: 20px;
+  margin-top: 50px;
+}
+
+.list {
+  font-size: 20px;
+  margin: 20px;
+  margin-top: 50px;
+}
+
+.coding {
+  float: right;
 }
