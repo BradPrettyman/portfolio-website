@@ -27,7 +27,7 @@ This application shows information that is specific to the developer. Has an "Ab
 
 ## Known Bugs
 
-* Future state to implement Bootstrap to make columns and rows better.
+* No known bugs at the time.
 
 ## License
 
