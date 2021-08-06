@@ -17,13 +17,13 @@ This application shows information that is specific to the developer. Has an "Ab
 
 ## Setup/Installation Requirements
 
-* Clone this repository to your desktop from this [Link.]
+* Clone this repository to your desktop from this [Link.](https://github.com/BradPrettyman/portfolio-website.git)
 * Navigate to top level of directory
-* Open portfolio/index.html
+* Open portfolio-website/index.html
 
 ## GH Page Link
 
-* Click [here]
+* Click [here](https://bradprettyman.github.io/portfolio-website)
 
 ## Known Bugs
 
